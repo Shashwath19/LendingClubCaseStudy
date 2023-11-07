@@ -24,4 +24,4 @@ The analysis indicates that while no single factor predicts default, a combinati
 - This project was inspired by real-world financial analytics scenarios.
 
 ## Contact
-Created by [@tramgo] - feel free to contact me!
+Created by [@tramgo][@shashwath] - feel free to contact us!
